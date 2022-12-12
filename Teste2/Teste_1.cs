@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Teste2
 {
-    public class Teste 1
+    public class Teste_1
     {
         
     }
